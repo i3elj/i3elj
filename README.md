@@ -1,5 +1,3 @@
-  <div align="center"><h1>Hello There</h1></div>
-  <br>
   <div align="center">
 <a href="https://github.com/i3elj">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i3elj&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
